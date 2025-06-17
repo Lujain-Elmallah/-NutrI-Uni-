@@ -120,13 +120,3 @@ CLERK_SECRET_KEY=your_secret
 ## 🤝 Contributions
 
 Contributions are welcome! Please open a PR or submit issues if you'd like to help improve Nutri-UnI.
-
-
-
-## 
-
-Built by **Grace Chang, Jheel Thanki, Keya Shah and Lujain Elmallah**
-
-A heartfelt thank you to Professor João Paulo Fernandes for his guidance, support, and for making this course an engaging learning experience. Your thoughtful feedback and practical insights have been invaluable throughout this project.
-
-Special thanks to our Instructor, Sara Mumtaz, for always being available and answering questions patiently. Your support made a big difference.
